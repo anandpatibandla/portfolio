@@ -1,4 +1,4 @@
- # JAVA DEVELOPER
+# JAVA DEVELOPER
 
 ## Technical skills : Core Java,SPRING FRAMEWORK,Database Management,RESTful APIs,DevOps
 ## EDUCATION
