@@ -1,10 +1,10 @@
-#JAVA DEVELOPER
-
-##Technical skills : Core Java,SPRING FRAMEWORK,Database Management,RESTful APIs,DevOps
-##EDUCATION
+JAVA DEVELOPER
+Technical skills : Core Java,SPRING FRAMEWORK,Database Management,RESTful APIs,DevOps
+EDUCATION
 MS,COMPUTER|YOUNGSTOWN STATE UNIVERSITY (MAY2024)
 BS,MECHANICAL|VELAGAPUDI RAMA KRISHNA SIDDHARTHA ENGINEERING COLLEGE (MAY2019)
-##PROFESSIONAL EXPERIENCE
+
+PROFESSIONAL EXPERIENCE
 United Health Group January 2023- Present
 Java Full Stack Developer
 
@@ -13,7 +13,7 @@ Developed and implemented OOPS principles using Java11 and J2EE to enhance the s
 Implemented the application with the HTML5, CSS3, JavaScript, ReactJS, AJAX, Redux, JAVA 8 features, Spring Framework, Spring Boot ,RESTful webservices, Hibernate emphasizing security through Spring Security, OAuth2.0.
 Created reusable React components, including functional and class-based components, to enhance modularity and efficiency in the application.
 Built and maintained SPAs using React Router to enable smooth navigation and state management across different views without full-page reloads.
-Utilized React’s state and props to efficiently manage and bind data retrieved from APIs to the view, enabling dynamic and interactive user interfaces.
+Utilized React’s state and props to efficiently manage and bind data retrieved from -APIs to the view, enabling dynamic and interactive user interfaces.
 Implemented the ReactJS lifecycle methods with the ES6+ features under class components using babel, webpack and React hooks(like ‘useState’, ‘useEffect’, ‘useContext’ etc) in functional components to manage state and side effects.
 Created and configured the Redux store, defined actions, and wrote reducers to manage state changes, ensuring a centralized and predictable state management system.
 Replaced local component state with Redux for better state consistency and reduced complexity, leading to more maintainable and scalable state management.
@@ -35,8 +35,8 @@ Developed and tested microservices using Spring Boot, ensuring modularity, scala
 Applied Spring Core annotations for dependency injection, used Spring MVC for REST APIs, and utilized Spring Boot to streamline microservices development.
 Developed and deployed cloud-hosted web applications and REST APIs using Spring Boot with embedded Tomcat, ensuring high availability and scalability.
 Deployed applications on AWS using services like S3, EC2, Lambda, and CloudFront, optimizing for large-scale, scalable solutions.
-
 ##PROJECTS
+Impact of AI on Market Capitalization of Companies Using Python
 
 Artificial Intelligence (AI) has become a game-changer in the business world, with companies investing heavily in AI-driven technologies to improve efficiency, decision-making, and automation. However, the true impact of AI on a company’s financial performance, particularly on its market capitalization, remains an area of research and interest.
 
@@ -49,4 +49,3 @@ Which companies benefit the most from AI adoption
 The correlation between AI investments and market cap growth
 Predictive trends in AI-driven companies
 This project will incorporate financial data analysis, sentiment analysis, time series forecasting, and AI-driven stock prediction models to derive meaningful insights.
-
