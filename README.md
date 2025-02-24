@@ -3,9 +3,8 @@
 ### Technical Skills: Core Java, SPRING FRAMEWORK, Database Management, RESTful APIs, DevOps
 
 ## EDUCATION
-M.S., COMPUTER | YOUNGSTOWN STATE UNIVERSITY (MAY2024)
-B.S., MECHANICAL | VELAGAPUDI RAMA KRISHNA SIDDHARTHA ENGINEERING COLLEGE (MAY2019)
-
+M.S., COMPUTER | YOUNGSTOWN STATE UNIVERSITY 
+B.S., MECHANICAL | VELAGAPUDI RAMA KRISHNA SIDDHARTHA ENGINEERING COLLEGE 
 ## PROFESSIONAL EXPERIENCE
 ### Java Full Stack Developer @ United Health Group (January 2023 - Present)
 - Involved in Requirements gathering, Analysis, Design, Development and Testing of application using AGILE methodology (SCRUM) in a Test-driven Development (TDD) approach.
